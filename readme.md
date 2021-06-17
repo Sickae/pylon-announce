@@ -6,7 +6,6 @@ Announce is a [Pylon](https://pylon.bot) app for Discord, allowing to configure 
 
 *  `!anc new <name: string> <channel: guildTextChannel> <cron: text>`
     > Creates a new Announce.
-    ---
     - **name:** Name of the Announce (you will refer to Announces with this name later)
     - **channel:** The Announce will be posted int he mentioned channel.
     - **cron:** A cron expression that sets the frequency of your post. You can create cron expressions [here](http://www.cronmaker.com).
