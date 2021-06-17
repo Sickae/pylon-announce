@@ -1,6 +1,6 @@
 # Announce
 
-Announce is a [Pylon](https://pylon.bot) app for Discord, allowing to configure timed messages called 'Announces' with ease.
+Announce is a [Pylon](https://pylon.bot) app for Discord, that allows to configure timed messages called 'Announces' with ease.
 
 # Commands
 
